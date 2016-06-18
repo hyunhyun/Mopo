@@ -1,0 +1,37 @@
+//<!-- ckan user login 추가(2015.12.29 한국정보공학D&S) -->
+//<iframe id="ckanUser" border="0" name="ckanUser" width="0" height="0" ></iframe> <!DOCTYPE html>
+//<html lang="ko">
+//<head>
+//<meta  charset=utf-8"/>
+//<title>열린 데이터 광장 JSON 다운로드</title>
+//</head>
+//<script>parent.document.body.style.cursor="wait";parent.document.all.but.style.cursor="wait";</script>
+//{"DESCRIPTION":{"CODE_DESC":"카테고리명","LOC_CODE":"자치구코드","LOC_DESC":"자치구명","FAC_NM":"시설명","FAC_ADDR":"주소","TEL":"연락처","H_URL":"홈페이지 주소","SCALE_":"규모","CAPACITY":"이용인원","FOUNDER":"설립주체","OPERATOR":"위탁운영","CHIEF":"기관장","OPEN_DATE":"개관일","MAX_CNT":"정원","REGISTERED_CNT":"현재등록인원","WAITING_CNT":"대기인원","VACANCY_CNT":"결원"}
+//,
+{"DATA" : [
+{"CODE_DESC":"노인교실.노인대학","LOC_CODE":"0024","LOC_DESC":"용산구","FAC_NM":"해돋는마을 노인교실","FAC_ADDR":"용산구 동자동 42-43","TEL":"742-2970","H_URL":"","SCALE_":"","CAPACITY":"","FOUNDER":"","OPERATOR":"","CHIEF":"","OPEN_DATE":"","MAX_CNT":"0","REGISTERED_CNT":"0","WAITING_CNT":"0","VACANCY_CNT":"0"}
+,{"CODE_DESC":"노인교실.노인대학","LOC_CODE":"0024","LOC_DESC":"용산구","FAC_NM":"새남터노인교실","FAC_ADDR":"용산구 이촌동 199-1","TEL":"716-1791","H_URL":"","SCALE_":"","CAPACITY":"","FOUNDER":"","OPERATOR":"","CHIEF":"","OPEN_DATE":"","MAX_CNT":"0","REGISTERED_CNT":"0","WAITING_CNT":"0","VACANCY_CNT":"0"}
+,{"CODE_DESC":"노인교실.노인대학","LOC_CODE":"0024","LOC_DESC":"용산구","FAC_NM":"한강교회 노인교실","FAC_ADDR":"용산구 이촌동 301-54","TEL":"796-0071","H_URL":"","SCALE_":"","CAPACITY":"","FOUNDER":"","OPERATOR":"","CHIEF":"","OPEN_DATE":"","MAX_CNT":"0","REGISTERED_CNT":"0","WAITING_CNT":"0","VACANCY_CNT":"0"}
+,{"CODE_DESC":"노인교실.노인대학","LOC_CODE":"0024","LOC_DESC":"용산구","FAC_NM":"안나노인교실","FAC_ADDR":"용산구 한남동 657-41","TEL":"798-8931","H_URL":"","SCALE_":"","CAPACITY":"","FOUNDER":"","OPERATOR":"","CHIEF":"","OPEN_DATE":"","MAX_CNT":"0","REGISTERED_CNT":"0","WAITING_CNT":"0","VACANCY_CNT":"0"}
+,{"CODE_DESC":"노인교실.노인대학","LOC_CODE":"0024","LOC_DESC":"용산구","FAC_NM":"한강경로아카데미","FAC_ADDR":"용산구 한강로3가 63-379","TEL":"010-4222-6693","H_URL":"","SCALE_":"","CAPACITY":"","FOUNDER":"","OPERATOR":"","CHIEF":"","OPEN_DATE":"","MAX_CNT":"0","REGISTERED_CNT":"0","WAITING_CNT":"0","VACANCY_CNT":"0"}
+,{"CODE_DESC":"노인교실.노인대학","LOC_CODE":"0024","LOC_DESC":"용산구","FAC_NM":"염천교회","FAC_ADDR":"용산구 갈월2길7","TEL":" 319-2941 ","H_URL":"","SCALE_":"","CAPACITY":"","FOUNDER":"","OPERATOR":"","CHIEF":"","OPEN_DATE":"","MAX_CNT":"0","REGISTERED_CNT":"0","WAITING_CNT":"0","VACANCY_CNT":"0"}
+,{"CODE_DESC":"노인교실.노인대학","LOC_CODE":"0024","LOC_DESC":"용산구","FAC_NM":"청암교회","FAC_ADDR":"용산구 감동산1길9","TEL":" 702-6761 ","H_URL":"","SCALE_":"","CAPACITY":"","FOUNDER":"","OPERATOR":"","CHIEF":"","OPEN_DATE":"","MAX_CNT":"0","REGISTERED_CNT":"0","WAITING_CNT":"0","VACANCY_CNT":"0"}
+,{"CODE_DESC":"노인교실.노인대학","LOC_CODE":"0024","LOC_DESC":"용산구","FAC_NM":"도원동교회","FAC_ADDR":"용산구 동문길33-3","TEL":" 712-6012 ","H_URL":"","SCALE_":"","CAPACITY":"","FOUNDER":"","OPERATOR":"","CHIEF":"","OPEN_DATE":"","MAX_CNT":"0","REGISTERED_CNT":"0","WAITING_CNT":"0","VACANCY_CNT":"0"}
+,{"CODE_DESC":"노인교실.노인대학","LOC_CODE":"0024","LOC_DESC":"용산구","FAC_NM":"성남교회","FAC_ADDR":"용산구 동자길20","TEL":" 754-6514 ","H_URL":"","SCALE_":"","CAPACITY":"","FOUNDER":"","OPERATOR":"","CHIEF":"","OPEN_DATE":"","MAX_CNT":"0","REGISTERED_CNT":"0","WAITING_CNT":"0","VACANCY_CNT":"0"}
+,{"CODE_DESC":"노인교실.노인대학","LOC_CODE":"0024","LOC_DESC":"용산구","FAC_NM":"동성교회","FAC_ADDR":"용산구 동자동 22-70","TEL":" 754-6440 ","H_URL":"","SCALE_":"","CAPACITY":"","FOUNDER":"","OPERATOR":"","CHIEF":"","OPEN_DATE":"","MAX_CNT":"0","REGISTERED_CNT":"0","WAITING_CNT":"0","VACANCY_CNT":"0"}
+,{"CODE_DESC":"노인교실.노인대학","LOC_CODE":"0024","LOC_DESC":"용산구","FAC_NM":"용산성당성모성심","FAC_ADDR":"용산구 산천동 산1","TEL":" 719-3301 ","H_URL":"","SCALE_":"","CAPACITY":"","FOUNDER":"","OPERATOR":"","CHIEF":"","OPEN_DATE":"","MAX_CNT":"0","REGISTERED_CNT":"0","WAITING_CNT":"0","VACANCY_CNT":"0"}
+,{"CODE_DESC":"노인교실.노인대학","LOC_CODE":"0024","LOC_DESC":"용산구","FAC_NM":"이태원성당상아탑","FAC_ADDR":"용산구 소방서길32","TEL":"790-7551","H_URL":"","SCALE_":"","CAPACITY":"","FOUNDER":"","OPERATOR":"","CHIEF":"","OPEN_DATE":"","MAX_CNT":"0","REGISTERED_CNT":"0","WAITING_CNT":"0","VACANCY_CNT":"0"}
+,{"CODE_DESC":"노인교실.노인대학","LOC_CODE":"0024","LOC_DESC":"용산구","FAC_NM":"신용산교회소망","FAC_ADDR":"용산구 신용산5길24-1","TEL":" 793-4761 ","H_URL":"","SCALE_":"","CAPACITY":"","FOUNDER":"","OPERATOR":"","CHIEF":"","OPEN_DATE":"","MAX_CNT":"0","REGISTERED_CNT":"0","WAITING_CNT":"0","VACANCY_CNT":"0"}
+,{"CODE_DESC":"노인교실.노인대학","LOC_CODE":"0024","LOC_DESC":"용산구","FAC_NM":"해방교회","FAC_ADDR":"용산구 용산동2가 31","TEL":" 793-8830 ","H_URL":"","SCALE_":"","CAPACITY":"","FOUNDER":"","OPERATOR":"","CHIEF":"","OPEN_DATE":"","MAX_CNT":"0","REGISTERED_CNT":"0","WAITING_CNT":"0","VACANCY_CNT":"0"}
+,{"CODE_DESC":"노인교실.노인대학","LOC_CODE":"0024","LOC_DESC":"용산구","FAC_NM":"해방촌성당성가정","FAC_ADDR":"용산구 용산동2가1-1118","TEL":" 795-3404 ","H_URL":"","SCALE_":"","CAPACITY":"","FOUNDER":"","OPERATOR":"","CHIEF":"","OPEN_DATE":"","MAX_CNT":"0","REGISTERED_CNT":"0","WAITING_CNT":"0","VACANCY_CNT":"0"}
+,{"CODE_DESC":"노인교실.노인대학","LOC_CODE":"0024","LOC_DESC":"용산구","FAC_NM":"원동교회","FAC_ADDR":"용산구 원효로2가 55-3","TEL":" 713-8172 ","H_URL":"","SCALE_":"","CAPACITY":"","FOUNDER":"","OPERATOR":"","CHIEF":"","OPEN_DATE":"","MAX_CNT":"0","REGISTERED_CNT":"0","WAITING_CNT":"0","VACANCY_CNT":"0"}
+,{"CODE_DESC":"노인교실.노인대학","LOC_CODE":"0024","LOC_DESC":"용산구","FAC_NM":"한강성당대건","FAC_ADDR":"용산구 이촌동 301-110","TEL":" 790-5011 ","H_URL":"","SCALE_":"","CAPACITY":"","FOUNDER":"","OPERATOR":"","CHIEF":"","OPEN_DATE":"","MAX_CNT":"0","REGISTERED_CNT":"0","WAITING_CNT":"0","VACANCY_CNT":"0"}
+,{"CODE_DESC":"노인교실.노인대학","LOC_CODE":"0024","LOC_DESC":"용산구","FAC_NM":"이촌동교회","FAC_ADDR":"용산구 이촌동길76","TEL":" 719-0711 ","H_URL":"","SCALE_":"","CAPACITY":"","FOUNDER":"","OPERATOR":"","CHIEF":"","OPEN_DATE":"","MAX_CNT":"0","REGISTERED_CNT":"0","WAITING_CNT":"0","VACANCY_CNT":"0"}
+,{"CODE_DESC":"노인교실.노인대학","LOC_CODE":"0024","LOC_DESC":"용산구","FAC_NM":"세광교회","FAC_ADDR":"용산구 이태원동 252-15","TEL":" 795-9200 ","H_URL":"","SCALE_":"","CAPACITY":"","FOUNDER":"","OPERATOR":"","CHIEF":"","OPEN_DATE":"","MAX_CNT":"0","REGISTERED_CNT":"0","WAITING_CNT":"0","VACANCY_CNT":"0"}
+,{"CODE_DESC":"노인교실.노인대학","LOC_CODE":"0024","LOC_DESC":"용산구","FAC_NM":"청파동성당바오로","FAC_ADDR":"용산구 청파동3가 132-9","TEL":" 704-0045 ","H_URL":"","SCALE_":"","CAPACITY":"","FOUNDER":"","OPERATOR":"","CHIEF":"","OPEN_DATE":"","MAX_CNT":"0","REGISTERED_CNT":"0","WAITING_CNT":"0","VACANCY_CNT":"0"}
+,{"CODE_DESC":"노인교실.노인대학","LOC_CODE":"0024","LOC_DESC":"용산구","FAC_NM":"상록대학","FAC_ADDR":"용산구 한강로1가 305","TEL":" 794-1243 ","H_URL":"","SCALE_":"","CAPACITY":"","FOUNDER":"","OPERATOR":"","CHIEF":"","OPEN_DATE":"","MAX_CNT":"0","REGISTERED_CNT":"0","WAITING_CNT":"0","VACANCY_CNT":"0"}
+,{"CODE_DESC":"노인교실.노인대학","LOC_CODE":"0024","LOC_DESC":"용산구","FAC_NM":"후암동성당에덴","FAC_ADDR":"용산구 후암동 38-3","TEL":" 319-2911 ","H_URL":"","SCALE_":"","CAPACITY":"","FOUNDER":"","OPERATOR":"","CHIEF":"","OPEN_DATE":"","MAX_CNT":"0","REGISTERED_CNT":"0","WAITING_CNT":"0","VACANCY_CNT":"0"}
+,{"CODE_DESC":"노인교실.노인대학","LOC_CODE":"0024","LOC_DESC":"용산구","FAC_NM":"영주교회","FAC_ADDR":"용산구 후암동 415-5","TEL":" 773-0691 ","H_URL":"","SCALE_":"","CAPACITY":"","FOUNDER":"","OPERATOR":"","CHIEF":"","OPEN_DATE":"","MAX_CNT":"0","REGISTERED_CNT":"0","WAITING_CNT":"0","VACANCY_CNT":"0"}
+]
+}
+//<script>parent.document.body.style.cursor="default";parent.document.all.but.style.cursor="default";</script></html>
