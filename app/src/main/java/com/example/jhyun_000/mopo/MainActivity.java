@@ -38,16 +38,10 @@ public class MainActivity extends AppCompatActivity {
 
             for(int i=0; i< jsonArray.length(); i++){
 
-//                JSONObject order = ja.getJSONObject(i);
-//                JSONObject order = jsonArray.getJSONObject(i);
-//            result += "product: " + order.getString("CODE_DESC") + ", maker: " + order.getString("FAC_ADDR") +
-//                    ", price: " + order.getInt("Price") + "\n";
                 json = jsonArray.getJSONObject(i);
                 String name = json.getString("CODE_DESC");
                 String address = json.getString("FAC_ADDR");
-//                tv.append(name+"\n");
                 tv.setText(name+"\n");
-//                tv.append(address+"\n");
             }
         } catch (Exception e) {
             tv.setText(e.getMessage());
